@@ -1,0 +1,3 @@
+- insert:
+    - id: selection-ask
+      name: '@local/selection-ask'

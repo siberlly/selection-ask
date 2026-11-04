@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Selection Ask">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#1d4ed8"/>
+  <rect x="14" y="22" width="36" height="7" rx="3.5" fill="#ffffff" opacity="0.35"/>
+  <rect x="14" y="34" width="26" height="7" rx="3.5" fill="#ffffff"/>
+  <path d="M44 30.5 46.4 37 52.9 39.4 46.4 41.8 44 48.3 41.6 41.8 35.1 39.4 41.6 37 Z" fill="#fbbf24"/>
+</svg>
